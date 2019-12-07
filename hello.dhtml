@@ -1,0 +1,18 @@
+<!-- I really don't think I knew the difference between HTML, DHTML JS and CSS at the time, writing them all 
+mangled together until things looked OK in Konqueror on SuSE 8. I would also do silly things like have two HEAD or BODY tags... 
+That being said, I also learned CSS3 well before it was a standard. I'm pretty sure it was around 2002, and there was
+certainly some 'new and shiny' going on. -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD><TITLE>Hello World</TITLE>
+<STYLE TYPE="text/CSS">
+<!--
+P { color: green; font-size: 20pt; }
+BLOCKQUOTE { color: red; font-weight: bold; }
+DIV BLOCKQUOTE { color: blue; border-width: 10px; border-color: purple; }
+-->
+</STYLE>
+<BODY>
+<P>Hello World</P>
+<BODY>
