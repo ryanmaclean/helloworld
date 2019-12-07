@@ -1,0 +1,5 @@
+' I was a teen at the team, I thought the "hey" was scandalous, but also that I should have a comma!
+' Note Toolbook was a GUI environment, and everything I did was attached to buttons. EVERYTHING.
+Private Sub Click()
+MsgBox "Hey, World!"
+End Sub
