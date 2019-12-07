@@ -1,6 +1,8 @@
 # helloworld
 A collection of Hello Worlds I once wrote while learning things, from memory for the most part :)
 
+Also serves as a history of things I've done, tech I've worked with, as I've scripted my way through being a startup founder, bench tech, consultant, systems engineer, release engineer. 
+
 I first started with Amiga Basic in ~1987. I'm pretty sure Basic and Batch on DOS 5 was next when 286 laptops came out. Then came Asymetrix Toolbook, which was a type of Visual Basic. 
 
 In university I learned Java, Emacs Lisp, SQL, C++ (which I loathed at the time). At the student paper I learned ActionScript as we had Macromedia Flash on my photo editing compter (pretty sure that was a G4). In my spare time I wrote EggDrop bots for IRC in TCL, which continued for quite some time. 
